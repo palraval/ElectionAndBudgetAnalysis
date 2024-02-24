@@ -1,7 +1,7 @@
 # ElectionAndBudgetAnalysis
 
 
-##Budget Data Analysis(PyBank)
+##Budget Data Analysis(PyBank)##
 
   The code in main.py starts with creating an appropriate path to the budget_data.csv file that will be used for the analysis. Once this is done, the csv file is opened and first value (the date) in each row is placed into a list. 
 
